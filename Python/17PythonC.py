@@ -1,0 +1,3 @@
+StoreValue = True
+
+print(StoreValue)
